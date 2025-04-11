@@ -58,7 +58,7 @@ This is a JavaFX desktop application for managing different types of bank accoun
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ganza-Kevin-Murinda/BankAccountManagementSystem.git
+   https://github.com/Ganza-Kevin-Murinda/BankAccountManagementSystem.git
    cd BankAccountManagementSystem
    ```
    
